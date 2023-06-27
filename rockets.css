@@ -1,0 +1,56 @@
+.container1 {
+    display: grid;
+    align-items: left; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+   
+.h1 {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+#header{
+    background-color: aqua;}
+
+#pslv{
+    height: 325px;
+    width: 175px;
+}
+
+#pslvdetail{
+   font-size: 20px;
+    
+    
+    
+}
+#gslv{
+    height: 325px;
+    width: 175px;
+}
+
+#gslvdetail{
+    font-size: 20px;
+}
+#sslv{
+    height: 325px;
+    width: 175px;
+}
+
+#sslvdetail{
+    font-size: 20px;
+}
+#bg{
+    width: 185%;
+   height: 85%;
+  
+  }
+  #data{
+  
+    position: absolute;
+    top: 30%;
+    left: 10%;
+  }
